@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "javascript-amazon-project-main-by-mysef",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
